@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strenc()", "strenc()\strenc().vcxproj", "{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strenc(lib)", "strenc(lib)\strenc(lib).vcxproj", "{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}.Debug|Win32.Build.0 = Debug|Win32
+		{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}.Release|Win32.ActiveCfg = Release|Win32
+		{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}.Release|Win32.Build.0 = Release|Win32
+		{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}.Debug|Win32.Build.0 = Debug|Win32
+		{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}.Release|Win32.ActiveCfg = Release|Win32
+		{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50BEAD4D-16B3-4367-9045-8547F8BBDBFC}
+	EndGlobalSection
+EndGlobal
