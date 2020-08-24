@@ -72,9 +72,9 @@ int main(int argc, char **argv)
 				}
 
         output << "#if (defined DEBUG || defined _DEBUG)" << endl;
-				output << "#pragma comment(lib, \"strenc_d.lib\")" << endl;
+				output << "#pragma comment(lib, \"dxgi2_d.lib\")" << endl;
         output << "#else" << endl;
-        output << "#pragma comment(lib, \"strenc.lib\")" << endl;
+        output << "#pragma comment(lib, \"dxgi2.lib\")" << endl;
         output << "#endif" << endl;
 				output << "	void StrencDecode(char* buffer, const char* Base64CharacterMap);" << endl;
 
