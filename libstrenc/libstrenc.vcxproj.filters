@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strenc(lib).cpp">
+    <ClCompile Include="libstrenc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,10 +21,10 @@
     <ClCompile Include="FileName.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="strenc().cpp">
+    <ClCompile Include="StringFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StringFile.cpp">
+    <ClCompile Include="strenctool.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

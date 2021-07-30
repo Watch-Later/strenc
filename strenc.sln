@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strenc()", "strenc()\strenc().vcxproj", "{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strenctool", "strenctool\strenctool.vcxproj", "{BD7E79EC-6891-4D26-9CBA-B38BCFC9FDFA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strenc(lib)", "strenc(lib)\strenc(lib).vcxproj", "{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libstrenc", "libstrenc\libstrenc.vcxproj", "{D8E8CDC3-FFE8-4AEE-9877-844B16DDD744}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
